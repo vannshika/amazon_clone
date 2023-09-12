@@ -1,0 +1,146 @@
+*{
+    font-family:sans-serif;
+}
+
+
+
+.amazonlogo{
+    height:42px;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+
+}
+.logo{
+    background-image: url("amazon-logo-amazon-icon-free-free-vector.jpg");
+    height:37px;
+    width:103px;
+    background-size:cover;
+    margin:0px 0px 18px;
+}
+.emailsec{
+    height:700px;
+    background-color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height:650px;
+    width:23%;
+    border:1px solid rgba(28, 23, 23, 0.079);
+    border-radius:6px;
+    margin-top:0px;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.acc{
+    margin:15px 0px 0px 14px;
+    font-size:xx-large;
+    font-weight: 500;
+    font-family:sans-serif;
+}
+input[type=text]{
+    padding:10px;
+    margin:10px 0px 0px 10px;
+    width:85%;
+    height:7px;
+    border-radius: 4px;
+}
+.box1{
+    margin:10px 0px 0px 15px;
+    font-weight:600;
+    font-size: small;
+}
+input[type=text]:focus{
+    background-color:rgb(189, 231, 241);
+    box-shadow: 0 0 10px rgb(35, 170, 204);
+}
+input[type=tel]:focus{
+    background-color:rgb(189, 231, 241);
+    box-shadow: 0 0 10px rgb(35, 170, 204);
+}
+input[type=tel]{
+    padding:10px;
+    margin:10px 0px 0px 10px;
+    width:85%;
+    height:7px;
+    border-radius: 4px;
+}
+input[type=password]{
+    padding:10px;
+    margin:10px 0px 0px 10px;
+    width:85%;
+    height:7px;
+    border-radius: 4px;
+}
+input[type=password]:focus{
+    background-color:rgb(189, 231, 241);
+    box-shadow: 0 0 10px rgb(35, 170, 204);
+}
+.box p{
+    margin:7px 0px 0px 10px;
+    font-size:0.90rem;
+}
+.submiting{
+    width:90%;
+    height:35px;
+    background-color:rgb(249, 194, 12);
+    color:black;
+    margin:20px 12px 50px 12px;
+    border:0.5px solid rgb(249, 194, 12);
+    border-radius:8px;
+}
+.submiting:hover{
+    opacity:2;
+    background-color:rgb(247, 168, 0); ;
+}
+.wremail{
+    height:35px;
+    font-family:sans-serif;
+    font-size:smaller;
+}
+.wremail a{
+    text-decoration: none;
+}
+.wremail p{
+    margin-top: 5px 0px 70px;
+}  
+.endbord{
+    height:80px;
+    background-color:white;
+    margin:50px 0px 0px 15px;
+    width:90%;
+    box-shadow: 0 -5px 5px -5px #333;
+}
+.endbord a{
+    text-decoration: none;
+}
+
+.e1{
+margin:20px 0px 10px;
+}
+.endbord p{
+    margin-left:0px;
+}
+.footpanel{
+    height:80px;
+    font-size:small;
+    background-color:white;
+    box-shadow: 0 -5px 5px -5px #333;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width:90%;
+    margin:0px 58px 10px 58px;
+}
+.c1{
+    margin:10px 0px 0px 20px;
+    color:#0060C0;
+}
+.content4{
+    margin-top:15px;
+    margin-bottom:10px;
+    text-align: center;
+}
